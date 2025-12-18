@@ -1,2 +1,4 @@
 #Do not truck data.csv file
 data.csv
+data/gitkeep
+data/ #ignorowanie całego folderu
